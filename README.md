@@ -16,7 +16,7 @@ Steps:
 6) Upload index.html and Image file ( I used chatgpt to create the HTML file instead of the boring hello world script )
 ![Screenshot](./rootfolder.png)
 7)Set Bucket Policy to Allow Public Access ( So that we could access it from the internet )
-![Screenshot](./bucket_policy.png)
+![Screenshot](./Bucket_Policy.png)
 
 8) Go to the Permissions tab and create a bucket policy ( You may choose policy generator or use chatgpt for this. Both are very easy to use )
 
