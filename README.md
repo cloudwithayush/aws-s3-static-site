@@ -6,7 +6,7 @@ Steps:
 2) Bucket name must be globally unique. I used "ayushbhatnagars3bucket"
 
 3) Uncheck "Block all public access"
-![Screenshot](./public_access.png)
+![Screenshot](./Public_Access.png)
 
 4) Enable "Static website hosting" under Properties
 ![Screenshot](./Enabling_StaticWebsite_Hosting.png)
