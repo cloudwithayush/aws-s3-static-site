@@ -14,7 +14,7 @@ Steps:
 5)Enter index.html as the index document
 
 6) Upload index.html and Image file ( I used chatgpt to create the HTML file instead of the boring hello world script )
-![Screenshot](./File_uploaded_on_root_folder.png)
+![Screenshot](./File_upload_on_root_folder.png)
 7)Set Bucket Policy to Allow Public Access ( So that we could access it from the internet )
 ![Screenshot](./bucket_policy.png)
 
