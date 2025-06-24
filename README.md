@@ -41,5 +41,7 @@
 ![Screenshot](./Screenshot_of_website.png)
 
 **Author:**
+
 **Ayush Bhatnagar**
+
 **LinkedIn:** **[linkedin.com/in/ayush-bhatnagar-a448293b]**
