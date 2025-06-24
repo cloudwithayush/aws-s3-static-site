@@ -39,3 +39,7 @@
 **Go to Properties > Static Website Hosting. Copy the Website endpoint link and open it in your browser.**
 
 ![Screenshot](./Screenshot_of_website.png)
+
+**Author:**
+**Ayush Bhatnagar**
+**LinkedIn:** [Link Text](linkedin.com/in/ayush-bhatnagar-a448293b)
