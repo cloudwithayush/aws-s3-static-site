@@ -1,5 +1,6 @@
 # aws-s3-static-site
-                                                                **Create a static website on AWS S3**
+
+**CREATE A STATIC WEBSITE ON AWS S3**
 
 **Steps:**
 
