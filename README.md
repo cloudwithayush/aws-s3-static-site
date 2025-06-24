@@ -44,4 +44,5 @@
 
 **Ayush Bhatnagar**
 
-**LinkedIn:** **[linkedin.com/in/ayush-bhatnagar-a448293b]**(linkedin.com/in/ayush-bhatnagar-a448293b)
+**LinkedIn:** **[https://www.linkedin.com/in/ayush-bhatnagar-a448293b](https://www.linkedin.com/in/ayush-bhatnagar-a448293b)**
+
