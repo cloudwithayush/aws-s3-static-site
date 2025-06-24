@@ -9,7 +9,7 @@ Steps:
 ![Screenshot](./Public_Access.png)
 
 4) Enable "Static website hosting" under Properties
-![Screenshot](./Enabling_StaticWebsite_Hosting.png)
+![Screenshot](./StaticWebsite_Settings.png)
 
 5)Enter index.html as the index document
 
