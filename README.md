@@ -42,4 +42,4 @@
 
 **Author:**
 **Ayush Bhatnagar**
-**LinkedIn:** [Link Text](linkedin.com/in/ayush-bhatnagar-a448293b)
+**LinkedIn:** **(linkedin.com/in/ayush-bhatnagar-a448293b)**
